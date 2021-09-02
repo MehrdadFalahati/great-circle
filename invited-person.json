@@ -1,0 +1,69 @@
+{
+  "staff": [
+    {
+      "name": "Sepehr Kheirkhah",
+      "lat": 35.795409,
+      "long": 51.514007
+    },
+    {
+      "name": "Negar Jamalian",
+      "lat": 35.775137,
+      "long": 51.414559
+    },
+    {
+      "name": "Fahime Babaei",
+      "lat": 35.776273,
+      "long": 51.413465
+    },
+    {
+      "name": "Sajjad Sahabi",
+      "lat": 35.677099,
+      "long": 51.408197
+    },
+    {
+      "name": "Aram Altoni",
+      "lat": 35.737664,
+      "long": 51.474583
+    },
+    {
+      "name": "Mohsen Jafarnia",
+      "lat": 35.790938,
+      "long": 51.380427
+    },
+    {
+      "name": "Benyamin Izadjou",
+      "lat": 35.811883,
+      "long": 51.402957
+    },
+    {
+      "name": "Mehdi Naghavi",
+      "lat": 35.741406,
+      "long": 51.411067
+    },
+    {
+      "name": "Mahta Kolahdouz",
+      "lat": 35.751923,
+      "long": 51.220925
+    },
+    {
+      "name": "Saeed Sadeghi",
+      "lat": 35.750758,
+      "long": 51.441401
+    },
+    {
+      "name": "Fatemeh Eskandarzadeh",
+      "lat": 35.773203,
+      "long": 51.444534
+    },
+    {
+      "name": "Mohammad Zamani",
+      "lat": 35.74836,
+      "long": 51.580458
+    },
+    {
+      "name": "Amirhoushang Navaei",
+      "lat": 35.658118,
+      "long": 51.55663
+    }
+  ]
+}
